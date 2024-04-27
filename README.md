@@ -86,6 +86,8 @@ else:
 ```
 ## Sample Input and Output
 ![Ex 7 a](https://github.com/Hemanath08/Search-Algorithms/assets/151807176/fa9e95f7-b5db-480a-881b-617616e25246)
+![output 2](https://github.com/Hemanath08/Search-Algorithms/assets/151807176/9390d41f-3fae-4ae0-9a7e-3d5be866d16c)
+![output 3](https://github.com/Hemanath08/Search-Algorithms/assets/151807176/4c0da93f-5193-4c6e-8696-18bef5a2f5e3)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
